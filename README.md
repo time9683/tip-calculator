@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [code github](https://github.com/time9683/tip-calculator)
+- Live Site URL: [live site](https://tip-calculator-tau-seven.vercel.app/)
 
 ## My process
 
